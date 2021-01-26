@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int var = 0;
-	printf("Variável = %d \n", var);
+	int var = 1;
+	printf("Variável = %d \n\n", var);
 	return 0;
 }
