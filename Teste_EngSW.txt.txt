@@ -5,3 +5,7 @@ Alterando informações para teste (branch f-novo)
 function g(){
 
 }
+
+function marceloFriske(){
+
+}
